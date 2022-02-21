@@ -7,7 +7,7 @@ Este site é um projeto relacionado a agendamentos, criado para fins didáticos.
 
 <div class="mb-3">
   <label for="Input1" class="form-label">Endereço de Email</label>
-  <input type="email" class="form-control" id="Input1" placeholder="nome@exemplo.com">
+  <input type="email" class="form-control" id="Input1" placeholder="nome@oexemplo.com">
 </div>
 <div class="mb-3">
   <label for="Textarea1" class="form-label">Comentário</label>
